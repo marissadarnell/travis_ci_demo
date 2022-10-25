@@ -4,4 +4,4 @@ const sum = (a, b) => {
 
 module.exports = sum;
 
-// Here is an added comment
+// Here is a comment
