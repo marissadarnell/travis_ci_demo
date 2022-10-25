@@ -5,6 +5,3 @@ script:
   - npm i
   - npm run lint
   - npm test
-branches:
-  only:
-    - main
